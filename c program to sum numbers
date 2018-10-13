@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+ int n,a,sum;
+  a=10;
+  n=20;
+  sum=a+n;
+  printf("%d",sum);
+  
+
+}
